@@ -1,0 +1,6 @@
+{
+  "name": "AURA Studio — Contemporary Living & Objects",
+  "description": "Curated objects for intentional spaces: sculptural lighting, handcrafted furniture, functional ceramics, and organic textiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
